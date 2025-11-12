@@ -1,0 +1,11 @@
+destination,passenger,weather,time,coupon,income,age,gender,maritalStatus,children,education,Y
+No Urgent Place,Alone,Sunny,Morning,coffee house,$50K-$62.5K,26,Male,Single,0,Bachelors,1
+Home,Friend(s),Sunny,Evening,bar,$25K-$37.5K,22,Female,Single,0,Some College,1
+Work,Partner,Rainy,Afternoon,carry out & take away,$87.5K-$100K,46,Male,Married,2,Masters,0
+Home,Friend(s),Sunny,Evening,bar,$12.5K-$25K,21,Female,Single,0,Some High School,1
+No Urgent Place,Alone,Snowy,Morning,coffee house,Less than $12,500,35,Female,Single,0,Bachelors,0
+No Urgent Place,Friend(s),Sunny,Afternoon,less than $20,$50K-$62.5K,28,Male,Single,0,Bachelors,1
+Home,Partner,Sunny,Evening,$20-$50,$37.5K-$50K,41,Male,Married,1,Masters,0
+No Urgent Place,Friend(s),Sunny,Evening,bar,$25K-$37.5K,23,Female,Single,0,Some College,1
+Work,Alone,Rainy,Morning,coffee house,$62.5K-$75K,33,Male,Married,1,Bachelors,0
+Home,Friend(s),Sunny,Evening,carry out & take away,$12.5K-$25K,24,Female,Single,0,High School,1
