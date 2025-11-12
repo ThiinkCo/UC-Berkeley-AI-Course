@@ -35,3 +35,24 @@ Use the Random Forest model to set optimal price ranges and guide acquisition de
 
 ## 📂 Repository Contents
 
+- `Practical_Application_II_Used_Car_Pricing.ipynb` — Completed analysis notebook  
+- `data/vehicles.csv` — Dataset (not uploaded due to size limit; link below)  
+- `images/crisp.png` — CRISP-DM diagram  
+- `images/kurt.jpeg` — Project illustration  
+- `README.md` — Project overview and summary  
+
+---
+
+**Note:**  
+The full dataset file `vehicles.csv` is too large to upload to GitHub (≈40 MB).  
+It is included in the course materials and can also be downloaded directly from Kaggle:  
+👉 [Used Car Dataset on Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+
+If you are re-running this notebook, simply place `vehicles.csv` in the same directory as the notebook  
+or use a small sample subset for testing.
+
+---
+
+📄 **Notebook:** [Practical_Application_II_Used_Car_Pricing.ipynb](./Practical_Application_II_Used_Car_Pricing.ipynb)  
+📊 **Dataset:** [data/vehicles.csv](./data/vehicles.csv)  
+🖼️ **Images:** [images/crisp.png](./images/crisp.png)
